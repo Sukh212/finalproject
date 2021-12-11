@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import styles from '../styles/Home.module.scss'
 import ImageGallery from '../components/ImageGallery'
-import {Title} from '../components/utils'
+import {Title} from '../components/Utils'
 
 const TableRow = ({ param, value }) => {
   return (

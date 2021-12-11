@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import styles from '../styles/Home.module.scss'
-import { Title } from '../components/utils'
+import { Title } from '../components/Utils'
 import { BsChevronDoubleDown } from 'react-icons/bs'
 
 const placeList = [
